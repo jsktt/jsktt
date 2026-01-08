@@ -1,6 +1,6 @@
 ## Hi 👋
 
-Hi, I'm Junsung, a software engineer with background in embedded systems and NLP models. 
+I'm Junsung, a software engineer with background in embedded systems and NLP models. 
 I am a recent graduate from Virginia tech with a Computer Engineering degree. 
 My current focuses are in fullstack development using React and Javascript through Vite.
 
