@@ -6,7 +6,7 @@ My current focuses are in fullstack development using React and Javascript throu
 
 On the todo list:
   - 🌱 WebGL
-  - 🌱 Latency optimizations
+  - 🌱 Read Book of Shaders by Patricio Gonzalez Vivo & Jen Lowe 
 
 <!--
 **jsktt/jsktt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
