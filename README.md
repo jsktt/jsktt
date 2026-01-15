@@ -1,12 +1,11 @@
 ## Hi 👋
 
-I'm Junsung, a software engineer with background in embedded systems and NLP models. 
-I am a recent graduate from Virginia tech with a Computer Engineering degree. 
-My current focuses are in fullstack development using React and Javascript through Vite.
+I'm Junsung, a software engineer with a background in embedded systems and NLP models. 
+I am a recent graduate from Virginia Tech with a Computer Engineering degree. 
+My current focuses are in fullstack development using typescript and react.
 
-On the todo list:
-  - 🌱 WebGL
-  - 🌱 Read Book of Shaders by Patricio Gonzalez Vivo & Jen Lowe 
+Books on watchlist:
+  - 📚 Book of Shaders by Patricio Gonzalez Vivo & Jen Lowe                 
 
 <!--
 **jsktt/jsktt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
