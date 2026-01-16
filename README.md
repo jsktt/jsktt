@@ -4,6 +4,7 @@ I'm Junsung, a software engineer with a background in embedded systems and NLP m
 I am a recent graduate from Virginia Tech with a Computer Engineering degree. 
 My current focuses are in fullstack development using typescript and react.
 
+
 Books on watchlist:
   - 📚 Book of Shaders by Patricio Gonzalez Vivo & Jen Lowe                 
 
