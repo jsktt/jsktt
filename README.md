@@ -4,8 +4,9 @@ I'm Junsung, a software engineer with a background in embedded systems and NLP m
 I am a recent graduate from Virginia Tech with a Computer Engineering degree. 
 My current focus is in backend development through spring boot.
 
-Books on watchlist:
-  - 📚 Book of Shaders by Patricio Gonzalez Vivo & Jen Lowe                 
+Books I recommend:
+  - 📚 Why We Sleep by Matthew Walker
+  - 📚 The Food Lab by J Kenji Lopez
 
 <!--
 **jsktt/jsktt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
