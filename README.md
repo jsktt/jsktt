@@ -1,39 +1,28 @@
-# Hi, I'm Junsung Kim
+## Hi 👋
 
-Backend Engineer building reliable server-side systems with Java and Spring Boot.
+I'm Junsung, a software engineer with a background in embedded systems and NLP models. 
+I am a recent graduate from Virginia Tech with a Computer Engineering degree. 
+My current focus is in backend development through spring boot.
 
-I care about clean architecture, solid data modeling, and writing code that's easy for the next person (often future me) to reason about.
+Checkout my small terminal portfolio: ssh -p 2222 3.39.226.101
 
-## 🛠️ Tech Stack
 
-**Languages:** Java 17, TypeScript, Python
-**Frameworks / Tools:** Spring Boot, JPA / Hibernate
 
-## 🔭 Currently
+Books I recommend:
+  - 📚 Why We Sleep by Matthew Walker
+  - 📚 The Food Lab by J Kenji Lopez
 
-- Building a personal **all-in-one dashboard** — pulling together the tools and data I use daily into one place
-- Sharpening my algorithms fundamentals — working through classic problems and data structure deep-dives
+<!--
+**jsktt/jsktt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## 📌 Projects
+Here are some ideas to get you started:
 
-### [Project One](https://github.com/jsktt/project-one)
-Placeholder description — a short summary of what this project does, the problem it solves, and the key tech used.
-
-### [Project Two](https://github.com/jsktt/project-two)
-Placeholder description — a short summary of what this project does, the problem it solves, and the key tech used.
-
-### [Project Three](https://github.com/jsktt/project-three)
-Placeholder description — a short summary of what this project does, the problem it solves, and the key tech used.
-
-## 📊 GitHub Stats
-
-![jsktt's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsktt&show_icons=true&theme=default&hide_border=true)
-
-## 📫 Find Me
-
-- **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/jsktt](https://linkedin.com/in/jsktt)
-- **Portfolio:** [jsktt.dev](https://jsktt.dev)
-
----
-*This README auto-displays on my GitHub profile.*
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
